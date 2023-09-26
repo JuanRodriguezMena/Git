@@ -1,0 +1,13 @@
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Presentacion\bin\Debug\Datos.dll
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Presentacion\bin\Debug\Logica.dll
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Presentacion\bin\Debug\Datos.pdb
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Presentacion\bin\Debug\Logica.pdb
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Presentacion\obj\Debug\Presentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Presentacion\obj\Debug\Presentacion.pdb

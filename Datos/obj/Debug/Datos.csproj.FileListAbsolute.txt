@@ -1,0 +1,6 @@
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Datos\bin\Debug\Datos.dll
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Datos\bin\Debug\Datos.pdb
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Datos\obj\Debug\Datos.dll
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Datos\obj\Debug\Datos.pdb

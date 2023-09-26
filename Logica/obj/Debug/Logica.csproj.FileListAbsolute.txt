@@ -1,0 +1,6 @@
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Logica\bin\Debug\Logica.dll
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Logica\bin\Debug\Logica.pdb
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Logica\obj\Debug\Logica.dll
+C:\Users\dsmoy\source\repos\CalculoImpuesto\Logica\obj\Debug\Logica.pdb
